@@ -1,1 +1,8 @@
-# esw003-aula06
+# Tarefa Aula 6
+
+grupo:
+
+Allan Ives
+Gustavo Nogueira
+Marcos Lima
+Thiago Aires
